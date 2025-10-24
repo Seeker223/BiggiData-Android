@@ -4,7 +4,7 @@
     "slug": "Biggi-Data",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/biggiData2.png",
     "scheme": "Biggi-Data",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
